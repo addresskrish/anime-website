@@ -22,7 +22,7 @@ Welcome to the Anime Show Website project! This website showcases popular anime 
 
 ## Demo
 
-You can view a live demo of the project [here](https://your-demo-link.com).
+You can view a live demo of the project [here](https://satyam-pratibhan.github.io/Anime-Website/).
 
 ![image](https://github.com/SATYAM-PRATIBHAN/Anime-Website/assets/142714564/a09144fa-e6b6-488d-b949-65ba64f8470e)
 
