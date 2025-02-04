@@ -286,3 +286,132 @@ header.shadow .logo{
     justify-content: center;
     align-items: center;
 }
+
+/* Media queries */
+
+@media (max-width: 1080px) {
+    .container {
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    .movies-container {
+        grid-template-areas: 
+        "I1 I2 I3 I4"
+        "I5 I6 I7 I8"
+        "I9 I10";
+        padding: 0 20px;
+    }
+}
+
+@media (max-width: 991px) {
+    header {
+        padding: 18px 4%;
+    }
+    section {
+        padding: 50px 4%;
+    }
+    .home-text {
+        padding: 0 4%;
+    }
+    .movies-container {
+        grid-template-areas: 
+        "I1 I2 I3"
+        "I4 I5 I6"
+        "I7 I8 I9"
+        "I10";
+    }
+}
+
+@media (max-width: 768px) {
+    header {
+        padding: 12px 4%;
+    }
+    #menu-icon {
+        display: block;
+    }
+    .navbar {
+        position: fixed;
+        top: -500px;
+        left: 0;
+        right: 0;
+        display: flex;
+        flex-direction: column;
+        background: var(--bg-color);
+        box-shadow: 0 4px 4px rgb(0 0 0 / 10%);
+        transition: 0.4s;
+        text-align: center;
+        gap: 1.5rem;
+        padding: 20px;
+        height: auto;
+        max-height: 100vh;
+        overflow-y: auto;
+        z-index: 100;
+    }
+    .navbar.active {
+        top: 60px;
+    }
+    .navbar a {
+        color: var(--text-color);
+    }
+    .home-text h1 {
+        font-size: 2.4rem;
+    }
+    .btn {
+        padding: 8px 17px;
+    }
+    .movies-container {
+        grid-template-areas: 
+        "I1 I2"
+        "I3 I4"
+        "I5 I6"
+        "I7 I8"
+        "I9 I10";
+    }
+
+    .navbar .btn {
+        margin-top: 1rem;
+        width: fit-content;
+        align-self: center;
+    }
+}
+
+@media (max-width: 472px) {
+    .newsletter form .email {
+        width: auto;
+    }
+    .movies-container {
+        grid-template-areas: 
+        "I1"
+        "I2"
+        "I3"
+        "I4"
+        "I5"
+        "I6"
+        "I7"
+        "I8"
+        "I9"
+        "I10";
+    }
+}
+
+@media (max-width: 370px) {
+    header {
+        padding: 8px 4%;
+    }
+    .home-text h1 {
+        font-size: 1.7rem;
+    }
+    .play {
+        right: 2rem;
+        bottom: 8%;
+    }
+    .movies-container {
+        grid-template-columns: 1fr;
+    }
+    .box .box-image {
+        height: 240px;
+    }
+    .coming-container .box {
+        width: 100%;
+    }
+}
