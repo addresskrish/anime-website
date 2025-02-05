@@ -209,4 +209,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 5. Open a pull request.
 
 ## Contact
-For any questions or feedback, please contact satyampratibhaan@gmail.com.
+For any questions or feedback, please contact addresskrish@gmail.com.
