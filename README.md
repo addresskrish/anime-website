@@ -22,9 +22,9 @@ Welcome to the Anime Show Website project! This website showcases popular anime 
 
 ## Demo
 
-You can view a live demo of the project [here](https://satyam-pratibhan.github.io/Anime-Website/).
+<!-- You can view a live demo of the project [here](https://addresskrish.github.io/Anime-Website/). This feature might not avalible-->
 
-![image](https://github.com/SATYAM-PRATIBHAN/Anime-Website/assets/142714564/a09144fa-e6b6-488d-b949-65ba64f8470e)
+![image](https://github.com/addresskrish/Anime-Website/assets/142714564/a09144fa-e6b6-488d-b949-65ba64f8470e)
 
 
 ## Installation
@@ -32,7 +32,7 @@ You can view a live demo of the project [here](https://satyam-pratibhan.github.i
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/SATYAM-PRATIBHAN/Anime-Website.git
+    git clone https://github.com/addresskrish/Anime-Website.git
     ```
 
 2. Navigate to the project directory:
