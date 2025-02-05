@@ -24,7 +24,7 @@ Welcome to the Anime Show Website project! This website showcases popular anime 
 
 <!-- You can view a live demo of the project [here](https://addresskrish.github.io/Anime-Website/). This feature might not avalible-->
 
-![image](https://github.com/addresskrish/Anime-Website/assets/142714564/a09144fa-e6b6-488d-b949-65ba64f8470e)
+![image](https://github.com/addresskrish/Anime-Website/blob/main/images/Anime-Website-Banner.png)
 
 
 ## Installation
