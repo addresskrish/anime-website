@@ -1,6 +1,6 @@
-# Anime Show Website
+# Anime Website
 
-Welcome to the Anime Show Website project! This website showcases popular anime shows with information and images, providing a visually appealing and user-friendly interface. Built with HTML, CSS, JavaScript, and the Swiper.js library, this project aims to deliver a smooth and engaging user experience.
+Welcome to the Anime Website project! This website showcases popular anime shows with information and images, providing a visually appealing and user-friendly interface. Built with HTML, CSS, JavaScript, and the Swiper.js library, this project aims to deliver a smooth and engaging user experience.
 
 ## Features
 
